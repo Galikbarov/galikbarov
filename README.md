@@ -11,3 +11,20 @@ PostgreSQL
 
 ###### Data Science: 
 Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras
+
+<br><br>
+<h3>My Repositories</h3>
+
+<table width=100%>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+    </tr>
+  </thead>
+  <tbody>
+
+    <tr>
+      <td><a href="https://github.com/Galikbarov/yandex-practicum-ds-projects"><b>Yandex.Praktikum Data-Science Projects</b></a></td>
+    </tr>
+  </tbody>
+</table>
