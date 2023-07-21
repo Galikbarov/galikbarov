@@ -24,7 +24,7 @@ Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras
   <tbody>
 
 <tr>
-      <td><a href="https://github.com/Galikbarov/yandex-practicum-ds-projects"><b>Yandex.Practicum Data-Science Projects Projects</b></a></td>
+      <td><a href="https://github.com/Galikbarov/yandex-practicum-ds-projects"><b>Yandex.Practicum Data-Science Projects</b></a></td>
 </tr>    
   </tbody>
 </table>
