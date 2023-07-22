@@ -18,7 +18,7 @@ Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras
 <table width=100%>
   <thead align="center">
     <tr border: none;>
-      <td><b>🎁 Projects</b></td>
+      <td><b>🧑🏻‍💻 Projects</b></td>
     </tr>
   </thead>
   <tbody>
