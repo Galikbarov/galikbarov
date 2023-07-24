@@ -10,7 +10,7 @@ IT specialist in Data Analytics and Machine Learning. Passionate about data proc
 PostgreSQL
 
 ###### Data Science: 
-Python, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras
+Python, SQL, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras
 
 <br>
 <h3>My Repositories</h3>
