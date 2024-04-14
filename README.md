@@ -13,7 +13,7 @@ PostgreSQL, DBeaver, Excel, Tableau
 Python, SQL, Pandas, Numpy, Matplotlib, SciPy, Scikit-learn, TensorFlow, Keras
 
 ###### Other: 
-Jira, 
+Jira
 
 <br>
 <h3>My Repositories</h3>
